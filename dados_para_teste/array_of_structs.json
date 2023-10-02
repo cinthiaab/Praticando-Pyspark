@@ -1,0 +1,56 @@
+[
+    {
+        "visitnumber": "3",
+        "visitid": "id-3",
+        "customdimensions": [
+            {"index": 1, "value": "example1"},
+            {"index": 2, "value": "example2"},
+            {"index": 3, "value": "example3"}
+        ]
+    },
+    {
+        "visitnumber": "4",
+        "visitid": "id-4",
+        "customdimensions": [
+            {"index": 1, "value": "example4"},
+            {"index": 2, "value": "example5"},
+            {"index": 3, "value": "example6"}
+        ]
+    },
+    {
+        "visitnumber": "5",
+        "visitid": "id-5",
+        "customdimensions": [
+            {"index": 1, "value": "example7"},
+            {"index": 2, "value": ""},
+            {"index": 3, "value": "example9"}
+        ]
+    },
+    {
+        "visitnumber": "6",
+        "visitid": "id-6",
+        "customdimensions": [
+            {"index": 15, "value": "example10"},
+            {"index": 10, "value": "example11"},
+            {"index": 4, "value": "example12"}
+        ]
+    },
+    {
+        "visitnumber": "7", 
+        "visitid": "id-7",
+        "customdimensions": [
+            {"index": 16, "value": "example13"},
+            {"index": 10, "value": "example14"},
+            {"index": 14, "value": "example15"}
+        ]
+    },
+    {
+        "visitnumber": "8",
+        "visitid": "id-8",
+        "customdimensions": [
+            {"index": 16, "value": "example16"},
+            {"index": 1, "value": "example17"},
+            {"index": 3, "value": ""}
+        ]
+    }
+]
